@@ -1,0 +1,13 @@
+{
+  "appId": "com.ionic.app",
+  "appName": "ionic P",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "Camera": {
+      "permitWriteAccess": true
+    }
+  }
+}
